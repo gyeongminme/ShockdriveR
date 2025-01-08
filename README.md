@@ -1,4 +1,11 @@
 # ShockdriveR
 쇼크드라이버 21
 
-  https://github.com/desktop/desktop/issues/11314
+압축 풀고 2021 누르면 됩니다
+이동키 - 방향키
+구르기(스테미나를 소모합니다) - Z
+공격 - X
+상호작용(상자 열기, 불 지피기) - F
+설정 - ESC
+체력 증가 및 감소 - QW
+스테미나 증가 및 감소 - AS
